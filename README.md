@@ -4,7 +4,7 @@
 ### **`📲 Android Developer`**
 
 #### My main tools:
-[<img align="left" alt="Android Studio" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/androidstudio/androidstudio-plain.svg"/>](https://developer.android.com/studio)
+[<img align="left" alt="Android Studio" width="30px" style="padding-right:10px;" src="./img/android_studio_logo.svg"/>](https://developer.android.com/studio)
 [<img align="left" alt="Firebase" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/firebase/firebase-plain.svg"/>](https://firebase.google.com)
 [<img align="left" alt="Gradle" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/gradle/gradle-plain.svg"/>](https://docs.gradle.org/current/userguide/what_is_gradle.html)
 [<img align="left" alt="Java" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg"/>](https://www.java.com/en/download/help/whatis_java.html)
