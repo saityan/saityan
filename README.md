@@ -2,6 +2,7 @@
 # saityan
 
 ### **`📲 Android Developer`**
+I'm a software engineer who enjoys making the universe a better place.
 
 #### My main tools:
 [<img align="left" alt="Android Studio" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/androidstudio/androidstudio-plain.svg"/>](https://developer.android.com/studio)
