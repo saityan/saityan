@@ -8,8 +8,9 @@
 [<img align="left" alt="Java" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg"/>](https://www.java.com/en/download/help/whatis_java.html)
 [<img align="left" alt="Kotlin" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/kotlin/kotlin-original.svg"/>](https://kotlinlang.org)
 [<img align="left" alt="Glide" width="30px" style="padding-right:10px;" src="./img/glide_logo.png"/>](https://bumptech.github.io/glide/)
-[<img align="left" alt="Cicerone" width="30px" style="padding-right:10px;" src="./img/cicerone_logo.png"/>](https://github.com/terrakok/Cicerone)
+[<img align="left" alt="Postman" width="30px" style="padding-right:10px;" src="./img/postman_logo.png"/>](https://www.postman.com/product/what-is-postman/)
 [<img align="left" alt="Firebase" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/firebase/firebase-plain.svg"/>](https://firebase.google.com)
+
 <br />
 
 #
