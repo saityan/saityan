@@ -2,8 +2,7 @@
 # saityan
 
 ### **`📲 Android Developer`**
-Hello, my name is %username%.
-I'm amazing, because %your_favorite_copypaste%.
+Hello, my name is %username%, and I'm amazing, because %your_favorite_copypaste%.
 So you should definitely hire me for a half of your company's budget.
 Cheers.
 
