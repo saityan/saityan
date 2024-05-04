@@ -2,7 +2,10 @@
 # saityan
 
 ### **`📲 Android Developer`**
-I'm an engineer who enjoys making the universe a better place through knowledge and technology.
+Hello, my name is %username%.
+I'm amazing, because %your_favorite_copypaste%.
+So you should definitely hire me for a half of your company's budget.
+Cheers.
 
 #### My main tools:
 [<img align="left" alt="Android Studio" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/androidstudio/androidstudio-plain.svg"/>](https://developer.android.com/studio)
